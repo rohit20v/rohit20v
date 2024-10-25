@@ -1,13 +1,7 @@
 # 👋 Hi there, I'm Rohit!
 
-🎓 **Aspiring Full-Stack Developer** | 🎬 **Film Enthusiast** | 💪 **Arm Wrestling enthusiast**
-
-
 ## About Me
-
 Aspiring full-stack developer with a solid foundation in front-end and back-end technologies. Eager to take on new projects and collaborations.
-
-
 
 ## 🚀 Technologies
 
@@ -16,7 +10,6 @@ Aspiring full-stack developer with a solid foundation in front-end and back-end 
 - **Frameworks**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) ![React Native Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white) ![Express JS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat) ![Angular](https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white) ![Remix](https://img.shields.io/badge/Remix-6D28D9?logo=remix&logoColor=white) ![Mantine UI](https://img.shields.io/badge/Mantine_UI-2F8EFC?logo=mantine&logoColor=white)
   
 - **Databases**: ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-
 
 ---
 

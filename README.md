@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rohit!
 
 ## About Me
-Aspiring full-stack developer with a solid foundation in front-end and back-end technologies. Eager to take on new projects and collaborations.
+Aspiring full-stack developer here! I love building and learning across the stack.
 
 ## 🚀 Technologies
 
